@@ -1,0 +1,51 @@
+﻿id,function,level,question,option_a,option_b,option_c,correct,feedback_correct,feedback_wrong
+1,Contrast, B2+,He kept working ___ feeling exhausted.,although,despite,because,a,Correct. 'Although' introduces a contrast clause.,Incorrect. You need a conjunction introducing contrast.
+2,Contrast,B2+,___ the weather was terrible, they went hiking.,Despite,Although,Because,b,Correct. 'Although' is followed by a full clause.,Incorrect. 'Despite' cannot be followed by a clause.
+3,Purpose,C1,She whispered ___ no one else could hear.,so that,in order to,because,a,Correct. 'So that' introduces a purpose clause.,Incorrect. The option does not express purpose correctly.
+4,Purpose,B2+,He spoke quietly ___ avoid waking the baby.,to,so that,although,a,Correct. 'To + infinitive' expresses purpose.,Incorrect. Only 'to' fits grammatically.
+5,Reason,B2+,He stayed at home ___ he was feeling ill.,because,although,despite,a,Correct. 'Because' introduces a reason.,Incorrect. The sentence needs a reason, not contrast.
+6,Concession,C1,___ he had little experience, he performed extremely well.,Even though,Because,So that,a,Correct. 'Even though' expresses strong concession.,Incorrect. This sentence requires concession.
+7,Condition,B2+,You won’t pass the exam ___ you practise regularly.,unless,although,because,a,Correct. 'Unless' means 'if not'. ,Incorrect. The condition is essential.
+8,Time,B2+,I realised my mistake ___ I reread the email.,while,when,although,b,Correct. 'When' marks the moment something happened.,Incorrect. This is not contrast or simultaneity.
+"9,Addition,C1,He is highly qualified; ___, he has years of experience.,moreover,although,otherwise,a,Correct. 'Moreover' adds reinforcing information.,Incorrect. The sentence needs addition."
+10,Result,B2+,The train was delayed, ___ we arrived late.,because,so,although,b,Correct. 'So' introduces a result.,Incorrect. This clause expresses consequence.
+11,Emphasis,C1,It was ___ difficult that many students failed.,so,such,very,a,Correct. 'So + adjective' expresses emphasis.,Incorrect. The structure is incorrect.
+12,Contrast,C1,She accepted the job, ___ the low salary.,although,despite,because,b,Correct. 'Despite' is followed by a noun phrase.,Incorrect. Grammar form is wrong.
+13,Purpose,C1,The instructions were simplified ___ users wouldn’t get confused.,so that,because,despite,a,Correct. This is a purpose clause.,Incorrect. The meaning is not cause.
+14,Condition,B2+,___ you hurry, you’ll miss the bus.,Unless,If,Despite,b,Correct. 'If' introduces a real condition.,Incorrect. The condition is positive.
+15,Time,C1,Hardly had he arrived ___ it started raining.,than,when,that,a,Correct. 'Hardly… when/than' is an inversion structure.,Incorrect. Fixed expression required.
+"16,Contrast,B2+,I like the idea; ___, it might be too expensive.,however,because,therefore,a,Correct. 'However' signals contrast.,Incorrect. This is not cause or result."
+17,Reason,C1,The match was cancelled ___ heavy rain.,because of,although,so that,a,Correct. 'Because of' is followed by a noun phrase.,Incorrect. The structure is incorrect.
+18,Condition,C1,___ he had studied more, he would have passed.,If,Unless,Provided,b,Correct. Second conditional form.,Incorrect. Wrong conditional meaning.
+19,Addition,B2+,She speaks French and ___ Italian.,too,although,unless,a,Correct. 'Too' adds information.,Incorrect. This is not contrast.
+20,Purpose,C1,This button is hidden ___ prevent accidental clicks.,to,in order that,because,a,Correct. Infinitive expresses purpose.,Incorrect. Clause is unnecessary here.
+21,Contrast,C1,Much ___ I respect him, I disagree.,as,although,because,a,Correct. 'Much as' expresses formal contrast.,Incorrect. This is a fixed structure.
+"22,Result,B2+,The explanation was unclear; ___, many students were confused.,therefore,however,although,a,Correct. 'Therefore' shows result.,Incorrect. This is consequence, not contrast."
+23,Time,C1,No sooner had she spoken ___ she regretted it.,than,when,that,a,Correct. Fixed inversion expression.,Incorrect. This structure is formulaic.
+24,Condition,B2+,You can stay here ___ you behave responsibly.,as long as,although,despite,a,Correct. 'As long as' expresses condition.,Incorrect. This is not contrast.
+25,Reason,C1,His success was largely ___ hard work.,due to,although,so that,a,Correct. 'Due to' introduces cause.,Incorrect. Wrong functional meaning.
+26,Contrast,B2+,___ being tired, she kept studying.,Despite,Although,Because,a,Correct. 'Despite' + gerund/noun.,Incorrect. Clause form is wrong.
+27,Purpose,C1,He slowed down ___ the children could keep up.,so that,despite,unless,a,Correct. Purpose with modal verb.,Incorrect. This expresses intention.
+"28,Addition,C1,The plan is risky; ___, it could be very profitable.,nevertheless,moreover,otherwise,b,Correct. 'Moreover' adds reinforcement.,Incorrect. This is not contrast."
+29,Time,B2+,I was cooking ___ he was setting the table.,while,although,because,a,Correct. 'While' expresses simultaneity.,Incorrect. This is not contrast.
+30,Condition,C1,You may borrow the car, ___ that you return it by six.,provided,on condition,because,a,Correct. Formal conditional phrase.,Incorrect. Fixed expression needed.
+31,Contrast,C1,___ appearances, the task was extremely complex.,Despite,Although,Because,a,Correct. 'Despite appearances' is idiomatic.,Incorrect. Wrong structure.
+32,Result,B2+,She worked hard, ___ achieving excellent results.,thus,although,unless,a,Correct. 'Thus' indicates result.,Incorrect. This expresses consequence.
+33,Reason,C1,The delay was ___ unforeseen circumstances.,owing to,although,so,a,Correct. Formal cause expression.,Incorrect. Wrong connector.
+34,Condition,B2+,___ you follow the instructions, you’ll be fine.,If,Unless,Despite,a,Correct. Basic real condition.,Incorrect. This is not negative.
+35,Purpose,C1,The policy was revised ___ address public concerns.,to,so that,because,a,Correct. Infinitive of purpose.,Incorrect. Clause unnecessary.
+36,Contrast,B2+,I decided to go ___ the bad weather.,although,despite,because,b,Correct. 'Despite' + noun phrase.,Incorrect. Clause structure wrong.
+37,Time,C1,By the time we arrived, the show ___ started.,had,has,was,a,Correct. Past perfect with time expression.,Incorrect. Tense mismatch.
+"38,Addition,C1,She is intelligent; ___, she’s extremely hardworking.,furthermore,however,therefore,a,Correct. Addition marker.,Incorrect. This is not contrast."
+39,Reason,B2+,He apologised ___ his behaviour.,for,although,because,a,Correct. Verb + preposition.,Incorrect. Wrong function.
+40,Condition,C1,___ circumstances change, we’ll review the decision.,Should,If,Unless,a,Correct. Formal conditional inversion.,Incorrect. This is advanced structure.
+41,Contrast,C1,Strange ___ it may seem, the plan actually worked.,as,although,because,a,Correct. Formal concessive structure.,Incorrect. Fixed pattern needed.
+42,Purpose,B2+,I left early ___ catch the first train.,to,so that,although,a,Correct. Purpose infinitive.,Incorrect. Clause unnecessary.
+43,Time,C1,He had finished the report ___ the deadline.,by,until,while,a,Correct. 'By' indicates completion time.,Incorrect. Wrong temporal meaning.
+"44,Result,C1,The demand was high; ___, prices increased.,consequently,however,despite,a,Correct. Formal result connector.,Incorrect. This shows consequence."
+45,Condition,B2+,You won’t succeed ___ you stay focused.,unless,although,despite,a,Correct. Negative condition.,Incorrect. Wrong meaning.
+46,Contrast,C1,___ his reputation, he was surprisingly modest.,Given,Despite,Because,b,Correct. 'Despite' fits contrast.,Incorrect. This is concession.
+47,Reason,C1,The event was postponed ___ safety concerns.,due to,although,so,a,Correct. Cause expression.,Incorrect. Wrong connector.
+48,Time,B2+,I’ll call you ___ I arrive.,when,although,because,a,Correct. Time clause.,Incorrect. This is not contrast.
+"49,Addition,C1,The course is demanding; ___, it’s extremely rewarding.,nevertheless,however,moreover,c,Correct. Addition, not contrast.,Incorrect. Meaning mismatch."
+50,Purpose,C1,The data was encrypted ___ it couldn’t be accessed.,so that,despite,because,a,Correct. Purpose with negative result.,Incorrect. This expresses intention.
